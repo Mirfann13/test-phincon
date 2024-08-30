@@ -7,3 +7,7 @@ how to run:
 5. npm run start
 
 after backend successfully running, then run the frontend
+How To Run:
+1. npm install
+2. setup your env
+3. yarn start
